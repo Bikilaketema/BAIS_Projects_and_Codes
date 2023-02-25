@@ -13,20 +13,7 @@ the life of the loan. Finally, determine what simple annualized percentage of th
 loan balance was paid in interest. For example, if $1,000 was paid in interest on a $10,000
 loan and it took 2 years to pay off, then the annualized interest is $500, which is 5 percent of
 the $10,000 loan amount. Your program should allow the user to repeat this calculation as
-often as desired.
-
-Group Members name and ID
-1. Bikila Ketema…………………………………….UGR/8950/13
-
-2. Abduba Peter……………………………………..UGR/0729/13
-
-3. Bilal Jemal………………………………………..UGR/4307/13
-
-4. Ashenafi Degefe……………………………….UGR/8994/13
-
-5. Beamlak Girma…………………………………..UGR/1862/13
-
-6. Beniam Amito……………………………..…..UGR/0196/13*/
+often as desired.*/
 
 #include <iostream>
 #include <iomanip>

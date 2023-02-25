@@ -4,20 +4,7 @@ function should copy the integer array and create a normalized version of it in 
 doubles. To do this, copy each element from the original array to the second array after
 dividing it by the sum of the elements of the original array. Write a second function called
 sumAll to calculate the sum of all elements in the integer array. The function should return
-the sum of all the elements in the array.
-
-Group Members name and ID
-1. Bikila Ketema…………………………………….UGR/8950/13
-
-2. Abduba Peter……………………………………..UGR/0729/13
-
-3. Bilal Jemal………………………………………..UGR/4307/13
-
-4. Ashenafi Degefe……………………………….UGR/8994/13
-
-5. Beamlak Girma…………………………………..UGR/1862/13
-
-6. Beniam Amito……………………………..…..UGR/0196/13*/
+the sum of all the elements in the array.*/
 
 #include <iostream>
 
